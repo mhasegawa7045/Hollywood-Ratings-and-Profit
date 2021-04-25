@@ -2,7 +2,7 @@
 
 # Statistical Learning
 
-> Marie Hasegawa `mhasegawa7045@floridapoly.edu`
+> Marie Hasegawa 
 
 ## Appendix of File
 -Hasegawa_7045_Hollywood
