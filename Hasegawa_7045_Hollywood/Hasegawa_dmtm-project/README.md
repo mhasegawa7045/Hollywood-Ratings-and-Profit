@@ -3,7 +3,7 @@
 > Marie Hasegawa `mhasegawa7045@floridapoly.edu`
 
 ## Appendix of File
--Hasegawa_7045_Hollywood
+- Hasegawa_7045_Hollywood
   - .RHistory
   -Hasegawa_dmtm-project
    - data
