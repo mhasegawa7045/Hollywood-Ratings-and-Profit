@@ -57,6 +57,12 @@ The purpose of this project is to see if text mining techniques can ease better 
 - The network of bigrams for the Movies dataset help summarize how frequented Movie `Description` word-terms create term reklationships and how they connect to other movies.
 
 ## References
-(n.d.). Retrieved from http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+Fonseca, L. (2019, August 15). Clustering analysis in R using K-means. Retrieved April 24, 2021, from https://towardsdatascience.com/clustering-analysis-in-r-using-k-means-73eca4fb7967
 
-Robinson, J. S. A. D. (2020). 2 Sentiment analysis with tidy data | Text Mining with R. Titdy Text Mining. https://www.tidytextmining.com/sentiment.html
+Hidayatuloh, A. (n.d.). Visualize Clustering Using ggplot2. Retrieved April 24, 2021, from https://rpubs.com/aephidayatuloh/clustervisual
+
+Michel Kana, P. (2020, February 24). Data clustering tutorial for advanced. Retrieved April 24, 2021, from https://towardsdatascience.com/clustering-for-data-nerds-ebbfb7ed4090
+
+K-means cluster analysis. (n.d.). Retrieved April 24, 2021, from https://afit-r.github.io/kmeans_clustering
+
+Rashmi, Kassambara 06 May 2020 The demo data used in this tutorial is available in the default installation of R. Juste type data(“USArrests”) Reply, & Kassambara. (2018, October 21). K-Means clustering in R: Algorithm and practical examples. Retrieved April 24, 2021, from https://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/
